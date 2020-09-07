@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
 int traverse(vector<int>& nums, long long S, int n){
     // n -> current element
     // S -> need to make
